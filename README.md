@@ -1,11 +1,6 @@
 # .u1-input - class
 custom inputs (beta)
 
-## Demos
-
-https://raw.githack.com/u1ui/input.class/main/tests/minimal.html  
-https://raw.githack.com/u1ui/input.class/main/tests/test.html
-
 ## Ussage
 
 ```html
@@ -32,10 +27,10 @@ https://raw.githack.com/u1ui/input.class/main/tests/test.html
 <link href="https://cdn.jsdelivr.net/gh/u1ui/input.class@3.0.0/input.min.css" rel=stylesheet>
 ```
 
-## Demo
+## Demos
 
-https://raw.githack.com/u1ui/input.class/main/tests/minimal.html  
-https://raw.githack.com/u1ui/input.class/main/tests/test.html  
+[minimal.html](https://raw.githack.com/u1ui/input.class/main/tests/minimal.html)  
+[test.html](https://raw.githack.com/u1ui/input.class/main/tests/test.html)  
 
 ## About
 
