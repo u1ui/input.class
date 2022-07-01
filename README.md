@@ -21,6 +21,16 @@ custom inputs (beta)
 </label>
 ```
 
+```css
+.u1-input {
+    border:2px solid;
+}
+.u1-input button {
+    padding:.2em .5em;
+    --line-height:1;
+}
+```
+
 ## Install
 
 ```html
@@ -29,8 +39,8 @@ custom inputs (beta)
 
 ## Demos
 
-[minimal.html](https://raw.githack.com/u1ui/input.class/main/tests/minimal.html)  
-[test.html](https://raw.githack.com/u1ui/input.class/main/tests/test.html)  
+[minimal.html](http://gcdn.li/u1ui/input.class@main/tests/minimal.html)  
+[test.html](http://gcdn.li/u1ui/input.class@main/tests/test.html)  
 
 ## About
 
