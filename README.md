@@ -34,7 +34,7 @@ custom inputs (beta)
 ## Install
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/u1ui/input.class@3.0.0/input.min.css" rel=stylesheet>
+<link href="https://cdn.jsdelivr.net/gh/u1ui/input.class@x.x.x/input.min.css" rel=stylesheet>
 ```
 
 ## Demos
